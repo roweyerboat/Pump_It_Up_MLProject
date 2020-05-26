@@ -10,3 +10,5 @@ This repo contains:
 
 - an executive summary presentation showcasing my final models and my recommendations for those looking to invest in repairing wells.
 
+Finally, here is a link to my blog about my experience doing this competition. https://roweyerboat.github.io/reality_behind_the_data
+
