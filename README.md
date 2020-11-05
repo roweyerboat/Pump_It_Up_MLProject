@@ -1,5 +1,5 @@
 # Pump It Up: Driven Data Competition
-This Repo contains notebooks used to Obtain, Scrub, Explore, Model, and iNterpret the data from the Pump It Up competition put on by Driven Data. https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
+This Repo contains notebooks used to Obtain, Scrub, Explore, Model, and iNterpret the data from the Pump It Up competition put on by [Driven Data](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/).
 The task is to create a model using machine learning that will predict whether a well in Tanzania is functional, not functional, or functional but needs repair.
 
 ## Files 
