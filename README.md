@@ -1,4 +1,4 @@
-# Pump_It_Up: Driven Data Competition
+# Pump It Up: Driven Data Competition
 This Repo contains notebooks used to Obtain, Scrub, Explore, Model, and iNterpret the data from the Pump It Up competition put on by Driven Data. https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 The task is to create a model using machine learning that will predict whether a well in Tanzania is functional, not functional, or functional but needs repair.
 
@@ -21,7 +21,9 @@ I've been working with this data in Tableau and digging a bit deeper into how to
 ![map of Tanzania with the wells](https://i.imgur.com/pBw2L6N.png?1)
 This is one of the visualizations I was able to create to showcase the areas impacted by wells that need repair and the size of the population impacted.
 
-Finally, here is a link to my blog about my experience doing this competition. https://roweyerboat.github.io/reality_behind_the_data
+## Blogs
+[Blog about competing for the first time.](https://roweyerboat.github.io/reality_behind_the_data)
+[Blog about Tableau visualization](https://roweyerboat.github.io/entering_the_world_of_tableau)
 
 ## Contact Info
 [LinkedIn](https://www.linkedin.com/in/amanda-rowe-data/)
